@@ -15,7 +15,7 @@ Installation
 $ bundle install
 ```
 
-- Copy config/database.yml/example to config/database.yml, and edit the file as you need
+- Copy config/database.yml.example to config/database.yml, and edit the file as you need
 
 - Setup database
 
